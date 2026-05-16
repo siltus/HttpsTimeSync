@@ -1,0 +1,6 @@
+# Local-only artifacts
+sync.log
+sync.*.log
+sync.*.log.zip
+config.json
+*.bak

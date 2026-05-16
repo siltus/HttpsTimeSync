@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://www.apple.com",
+    "https://www.amazon.com",
+    "https://cdnjs.cloudflare.com",
+    "https://www.microsoft.com",
+    "https://speed.cloudflare.com",
+    "https://www.google.com",
+    "https://www.cloudflare.com"
+  ],
+  "timeoutSec": 5,
+  "maxRttSec": 5,
+  "minValidSources": 2,
+  "thresholdMs": 250,
+  "logPath": "C:\\ProgramData\\HttpsTimeSync\\sync.log",
+  "logMaxBytes": 1048576,
+  "logKeepRotated": 10
+}
